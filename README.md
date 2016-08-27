@@ -6,4 +6,8 @@ Instructions to run:
 4- Results will be displayed on screen for the vehicle to move in appropriate direction
 
 
+Details
+The file Tracking.py contains algorithm to effectively segment road in urban areas where there is high variation in road colours in different time of the day. The output is an instruction for the vehicle to move in appropriate direction.
+
+
 
